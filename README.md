@@ -1,4 +1,4 @@
-<img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihZDvr72VETA7I5UFl0f-HxIp9m0HhpEImQ6AsWYw4M1c784_E3ieoQ3c8gK0qBz2XFu9xhdjQcAGw_6my_UzxbP5l0boQ=w1366-h617">
+<img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihaGUx2kdafYxO472IMrPuW5FfHzpoCAzeSMEPbBau7vl9Q_p7KfR5ugAl-Z3RSYUZ82bNYs1pPsq1LCiy60wrWPvsjvgw=w1366-h617">
 
 <h1 align="center">I'm Kavindu Ranthisaru</h1>  
 <h3 align="center">Dexter 😎 | A UI/UX Designer, Front-end Developer, FX and Video Editor</h3>
