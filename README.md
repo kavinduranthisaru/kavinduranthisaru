@@ -1,6 +1,6 @@
 <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihaGUx2kdafYxO472IMrPuW5FfHzpoCAzeSMEPbBau7vl9Q_p7KfR5ugAl-Z3RSYUZ82bNYs1pPsq1LCiy60wrWPvsjvgw=w1366-h617">
 
-<h1 align="center">HI 👋, I'm Kavindu Ranthisaru</h1>  
+<h1 align="center">Hi 👋, I'm Kavindu Ranthisaru</h1>  
 <h3 align="center">Dexter 😎 | A UI/UX Designer, Front-end Developer, FX and Video Editor</h3>
 
 - 🔭 I’m currently working on **Virtuel Solutions**
