@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kavinduranthisaru.vs@gmail.com**
 
-- ⚡ Fun fact **Coding isn’t just for the tech industry**
+- ⚡ **Coding isn’t just for the tech industry**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
