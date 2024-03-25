@@ -30,7 +30,7 @@
    
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript" width="40" height="40"/> </a>
   
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/cute-clipart/64/react-native.png" alt="react" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react" width="40" height="40"/> </a>
   
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/figma--v1.png" alt="figma" width="40" height="40"/> </a>
   
