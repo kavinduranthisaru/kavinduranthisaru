@@ -11,13 +11,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/kranthisaru" target="blank"><img align="center" src="https://img.icons8.com/color/48/twitter--v1.png" alt="kranthisaru" height="40" width="40" /></a>
+  <a href="https://twitter.com/kranthisaru" target="blank"><img align="center" src="https://img.icons8.com/color/48/twitter--v1.png" alt="kranthisaru" height="40" width="40" /></a> <p>@KRanthisaru</p>
   
-  <a href="https://linkedin.com/in/kavinduranthisaru" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/linkedin.png" alt="kavinduranthisaru" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/kavinduranthisaru" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/linkedin.png" alt="kavinduranthisaru" height="40" width="40" /></a> <p>kavinduranthisaru</p>
   
-  <a href="https://instagram.com/dexter_.kr" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="dexter_.kr" height="40" width="40" /></a>
+  <a href="https://instagram.com/dexter_.kr" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="dexter_.kr" height="40" width="40" /></a> <p>dexter_.kr</p>
   
-  <a href="https://dribbble.com/dexter_kr" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/dribbble.png" alt="dexter_kr" height="40" width="40" /></a>
+  <a href="https://dribbble.com/dexter_kr" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/dribbble.png" alt="dexter_kr" height="40" width="40" /></a> <p>Dexter_kr<p/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
