@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **SCSS, React**
 
-- 📫 How to reach me **kavinduranthisaru.vs@gmail.com**
+- 📫 How to reach me **kavinduranthisaru23@gmail.com**
 
 - ⚡ **Coding isn’t just for the tech industry**
 
