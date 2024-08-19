@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kavindu Ranthisaru</h1>  
 <h3 align="center">Dexter 😎 | A UI/UX Designer, Front-end Developer, FX and Video Editor</h3>
 
+<a href="https://app.daily.dev/dexter_kr"><img src="https://api.daily.dev/devcards/v2/CVzfzVcLvYMI2AfyVw0xn.png?r=cl0&type=default" width="356" alt="Kavindu Ranthisaru's Dev Card"/></a>
+
 - 🔭 I’m currently working on **Virtuel Solutions**
 
 - 🌱 I’m currently learning **SCSS, React**
