@@ -8,7 +8,6 @@
 
 🎨 Passionate about crafting intuitive user experiences and sleek interfaces.  
 💻 Currently honing my skills in **SCSS** and **React**.  
-🎬 Skilled in FX and video editing, blending creativity with technology.  
 📍 Based in Colombo, Sri Lanka.
 
 ---
@@ -18,7 +17,7 @@
 - **Design**: Figma, Adobe XD, Photoshop, Illustrator  
 - **Front-End**: HTML5, CSS3, JavaScript, SCSS, React  
 - **Version Control**: Git & GitHub  
-- **Others**: After Effects, Premiere Pro
+- **Others**: Visual Studio Code, Chrome DevTools
 
 ---
 
