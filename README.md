@@ -1,6 +1,6 @@
 # 👋 Hello there! I'm Kavindu Ranthisaru
 
-### 🧑‍💻 Also known as Dexter — UI/UX Designer | Front-End Developer
+### 🧑‍💻 Also known as Dexter | UI/UX Designer | Front-End Developer
 
 ---
 
